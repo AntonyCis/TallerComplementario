@@ -1,4 +1,4 @@
--- Taller Base de datos nuevo commit - Antony Cisneros
+-- Taller Base de datos nuevo commit - Antony
 
 -- CREACIÓN DE BASE DE DATOS
 CREATE DATABASE IF NOT EXISTS turnos_medicos;
