@@ -1,4 +1,4 @@
--- Taller Base de datos
+-- Taller Base de datos nuevo commit
 
 -- CREACIÓN DE BASE DE DATOS
 CREATE DATABASE IF NOT EXISTS turnos_medicos;
