@@ -1,3 +1,4 @@
+-- Script Antony Cisneros
 
 -- CREACIÓN DE BASE DE DATOS
 CREATE DATABASE IF NOT EXISTS turnos_medicos;
