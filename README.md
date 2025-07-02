@@ -1,3 +1,5 @@
+<h2>PASOS PARA LA EJECUCION DEL PROYECTO</h2>
+
 1. Clonar la carpeta / descargarla
 2. Descomprimirla y abrir el script en MySQL Workbench
 3. Abrir la carpeta de turnos medicos como proyecto en IntellJ
